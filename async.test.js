@@ -16,3 +16,5 @@ describe('tests for async functions', () => {
 		});
 	});
 });
+
+module.exports = fetchData;
