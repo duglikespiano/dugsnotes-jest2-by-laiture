@@ -15,7 +15,7 @@
 
 - Project title : dugsnotes_jest2_by_laiture
 - Related URL : https://youtu.be/ajiAl5UNzBU?si=atukfELo0GycFuy7
-- Period : Mar 25 2026 - in progress
+- Period : Mar 25 2026 - Mar 26 2026
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
